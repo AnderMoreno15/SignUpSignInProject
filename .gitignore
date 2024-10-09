@@ -27,9 +27,9 @@ replay_pid*
 /ExchangeLibrary/nbproject/private/
 
 # possible conflictive files
-/ClientApplication/nbproject/private/*
-/ExchangeLibrary/nbproject/private/*
-/ServerApplication/nbproject/private/*
+/ClientApplication/nbproject/*
+/ExchangeLibrary/nbproject/*
+/ServerApplication/nbproject/*
 
 /ClientApplication/dist/
 /ExchangeLibrary/dist/
